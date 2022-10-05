@@ -11,31 +11,31 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'For Passengers and Sender',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/passengers.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and used to get your
-        website up and running quickly.
+        Whether you want to travel to the remote place or send a package, even if the place seems to
+        be unconnected. Here you can find the right courier or ride.
       </>
     ),
   },
   {
     title: 'Everyone is a Courier',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/courier.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and move your
-        docs into the <code>docs</code> directory.
+        Whether you are an occasional driver or have a professional transport company: no matter
+        how, here you will find people who are happy to use your service.
       </>
     ),
   },
   {
     title: 'Even to the most remote places',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/village.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can be extended while
-        reusing the same header and footer.
+        Whether the place is remote, undeveloped, or disrupted by war and natural disasters, if
+        anyone goes there, he or she is listed here. It is worth it.
       </>
     ),
   },
