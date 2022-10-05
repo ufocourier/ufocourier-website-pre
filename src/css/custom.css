@@ -4,9 +4,27 @@
  * work well for content-centric websites.
  */
 
+@font-face {
+  font-family: 'Open Sans';
+  src: url('@site/static/fonts/Open_Sans/OpenSans-Regular.woff2') format('woff2'),
+    url('@site/static/fonts/Open_Sans/OpenSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('@site/static/fonts/Open_Sans/OpenSans-Italic.woff2') format('woff2'),
+    url('@site/static/fonts/Open_Sans/OpenSans-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
 /* You can override the default Infima variables here. */
 :root {
-
+  font-family: 'Open Sans';
   --ifm-color-primary: #388bf0;
   --ifm-color-primary-dark: #1c7bee;
   --ifm-color-primary-darker: #1273ea;

@@ -35,7 +35,7 @@ function FeaturedBy({ title, imgName }: FeaturedByItem) {
 export default function HomepageFeaturedBy(): JSX.Element {
   return (
     <section className={styles.featuredBy}>
-      <h2 className="text--center">Supported by</h2>
+      <h1 className="text--center">Supported by</h1>
       <div className={styles.features}>
         <div className="container">
           <div className="row">

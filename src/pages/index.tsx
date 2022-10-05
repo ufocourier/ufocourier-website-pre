@@ -10,8 +10,10 @@ import HomepageFeaturedBy from '../components/FeaturedBy';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+  const SoonSvg = require('@site/static/img/soon.svg').default;
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <SoonSvg className={styles.heroSoon} />
       <div className={clsx('container', styles.heroContainer)}>
         <div>
           <h1 className="hero__title">{siteConfig.title}</h1>
@@ -38,6 +40,7 @@ function HomepageHeader() {
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
+
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
@@ -49,7 +52,7 @@ export default function Home(): JSX.Element {
 
         <section className={styles.story}>
           <div className="container padding--md padding-top--lg">
-            <h2 className="text--center">How it works</h2>
+            <h1 className="text--center">How it works</h1>
             <div className="row">
               <div className="col col--7 text--center">
                 <div className="">
@@ -76,7 +79,7 @@ export default function Home(): JSX.Element {
                     waypoints in the nearby area.
                   </p>
                   <p>
-                    Via a dialog-oriented 💬 procedure, you can get in touch with the driver of this
+                    Via a dialog-oriented procedure, you can get in touch with the driver of this
                     trip. Via a bidding process, the driver can accept or reject your request.
                   </p>
                   <p>
