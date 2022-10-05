@@ -60,3 +60,28 @@
   align-items: center;
   justify-content: center;
 }
+
+.story {
+  /* background-color: var(--ifm-color-primary-lightest); */
+}
+
+@media screen and (max-width: 996px) {
+  .reverse {
+    flex-wrap: wrap-reverse;
+    flex-direction: row-reverse;
+  }
+}
+
+.storyImg {
+  width: 100%;
+  object-fit: fill;
+}
+
+.storyDescription {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  font-size: 1em;
+  display: flex;
+  justify-content: center;
+}
