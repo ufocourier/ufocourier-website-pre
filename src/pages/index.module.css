@@ -13,6 +13,8 @@
   background-position: 60%;
   background-size: cover;
   /* height: 60vh; */
+  display: flex;
+  flex-direction: column;
 }
 
 .heroContainer {
@@ -21,6 +23,15 @@
   flex-wrap: wrap;
   /* gap: 5vw; */
   justify-content: space-evenly;
+}
+
+.heroExplainer {
+  max-width: 63vw;
+  justify-self: center;
+  font-size: 1.4em;
+  border-top: 1px solid white;
+  padding-top: 1em;
+  font-family: serif;
 }
 
 .heroCABContainer {
@@ -36,6 +47,10 @@
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+  }
+
+  .heroExplainer {
+    max-width: 95vw;
   }
 }
 

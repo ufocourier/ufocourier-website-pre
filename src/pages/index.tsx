@@ -25,6 +25,12 @@ function HomepageHeader() {
           </div>
         </div>
       </div>
+      <p className={styles.heroExplainer}>
+        <em>
+          "A platform where anyone can send goods and transport people via independent delivery
+          partners, at the best conditions, even to the most inconvenient places."
+        </em>
+      </p>
     </header>
   );
 }
