@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/waitinglist/tutorial-basics/deploy-your-site",
+  "source": "@site/src/pages/waitinglist/tutorial-basics/deploy-your-site.md",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "frontMatter": {
+    "sidebar_position": 5
+  }
+}

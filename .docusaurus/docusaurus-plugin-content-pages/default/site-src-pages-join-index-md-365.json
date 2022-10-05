@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/join/",
+  "source": "@site/src/pages/join/index.md",
+  "title": "Join waitinglist as courier or passenger",
+  "description": "An awesome team is working on UfoCourier right now.",
+  "frontMatter": {
+    "title": "Join waitinglist as courier or passenger",
+    "sidebar_position": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/team/",
+  "source": "@site/src/pages/team/index.md",
+  "title": "UfoCourier Team",
+  "description": "TBD",
+  "frontMatter": {
+    "title": "UfoCourier Team",
+    "sidebar_position": 2
+  }
+}
