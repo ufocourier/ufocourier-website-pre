@@ -66,6 +66,7 @@ const config = {
         },
         items: [
           { to: '/join', label: 'Join', position: 'left' },
+          { to: '/team', label: 'Team', position: 'left' },
           {
             type: 'doc',
             docId: 'intro',
