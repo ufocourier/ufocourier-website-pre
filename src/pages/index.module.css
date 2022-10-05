@@ -101,3 +101,25 @@
   display: flex;
   justify-content: center;
 }
+
+.logoAndTitle {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  position: relative;
+  top: -10px;
+  width: 90px;
+  height: 90px;
+  border-radius: 45px;
+  border-width: 13px;
+  border-color: white;
+  background-color: white;
+  background-image: url('@site/static/img/ufocourier-logo.png');
+  background-size: contain;
+}

@@ -15,9 +15,12 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <SoonSvg className={styles.heroSoon} />
       <div className={clsx('container', styles.heroContainer)}>
-        <div>
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.logoAndTitle}>
+          <div className={styles.logo}></div>
+          <div>
+            <h1 className="hero__title">{siteConfig.title}</h1>
+            <p className="hero__subtitle">{siteConfig.tagline}</p>
+          </div>
         </div>
         <div className={styles.buttons}>
           <div className={styles.heroCABContainer}>
