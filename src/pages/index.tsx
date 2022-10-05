@@ -63,25 +63,24 @@ export default function Home(): JSX.Element {
               <div className="col col--5">
                 <div className={styles.storyDescription}>
                   <p>
-                    As someone who wants to book a trip 🚀 or send a package 📦, you can search 🔎
-                    trips according to your criteria.
+                    As someone who wants to book a trip or send a package, you can search trips
+                    according to your criteria.
                   </p>
 
                   <p>
-                    You can enter the starting and ending point 🏁 of your trip, as well as the
-                    desired period 📆 in which the trip should take place.
+                    You can enter the starting and ending point of your trip, as well as the desired
+                    period in which the trip should take place.
                   </p>
                   <p>
                     For the search results, not only 100% hits are displayed, but also trips with
                     waypoints in the nearby area.
                   </p>
                   <p>
-                    Via a dialog-oriented 💬 procedure, you can get in touch with the driver 🤝 of
-                    this trip. Via a bidding process, the driver can accept ✅ or reject ❌ your
-                    request.
+                    Via a dialog-oriented 💬 procedure, you can get in touch with the driver of this
+                    trip. Via a bidding process, the driver can accept or reject your request.
                   </p>
                   <p>
-                    Your request is automatically saved 💿 and is available for searches by the
+                    Your request is automatically saved and is available for searches by the
                     drivers.
                   </p>
                 </div>
@@ -92,16 +91,16 @@ export default function Home(): JSX.Element {
               <div className="col col--5">
                 <div className={styles.storyDescription}>
                   <p>
-                    At UfoCourier any driver 🙋🏻‍♂️🙋🏾‍♀️ can offer a ride, for passengers 👨‍👩‍👧, packages 📦
-                    and both at the same time.
+                    At UfoCourier any driver can offer a ride, for passengers, packages and both at
+                    the same time.
                   </p>
 
                   <p>
-                    Whether by car 🚙, bike 🏍, truck 🚚, van 🚐, plane 🛫 or ship 🛳, anything that
-                    moves may be offered, professionally 💰 or casually 💁🏾‍♀️.
+                    Whether by car, bike, truck, van, plane or ship, anything that moves may be
+                    offered, professionally or casually.
                   </p>
                   <p>
-                    A comprehensive route 🗺 can be created for a trip, with a large number of
+                    A comprehensive route can be created for a trip, with a large number of
                     waypoints, all of which will be consulted when a potential customer is looking
                     for trips.
                   </p>
@@ -109,7 +108,7 @@ export default function Home(): JSX.Element {
                     Riders are supported throughout the entire process: From the creation, to the
                     acceptance of requests, to the ride realization.
                   </p>
-                  <Link className="button button--secondary button--lg" to="/join">
+                  <Link className="button button--primary button--lg" to="/join">
                     Become a Courier (for free) 🚘
                   </Link>
                 </div>
