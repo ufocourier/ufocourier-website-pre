@@ -59,12 +59,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'UfoCourier',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'UfoCourier logo',
+          src: 'img/ufocourier-logo.png',
         },
         items: [
+          { to: '/join', label: 'Join', position: 'left' },
           {
             type: 'doc',
             docId: 'intro',
@@ -122,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} UfoCourier. Built with ❤️ in Berlin.`,
       },
       prism: {
         theme: lightCodeTheme,
