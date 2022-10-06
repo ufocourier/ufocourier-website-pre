@@ -29,6 +29,10 @@ const config = {
     locales: ['en'],
   },
 
+  scripts: [
+    'https://chimpstatic.com/mcjs-connected/js/users/68dd166f70b27de4d248f4e38/ced60a8cad1b7099183b5b1d7.js'
+  ],
+
   presets: [
     [
       'classic',
