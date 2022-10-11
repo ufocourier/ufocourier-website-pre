@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+pawel:
+  name: Pawel Sawicki
+  title: Co-Founder and CTO
+  url: https://www.linkedin.com/in/sawickipawel/
+  image_url: https://ufocourier.com/img/pawel.jpg
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+oksana:
+  name: Oksana Sawicka
+  title: Co-Founder and CEO
+  url: https://ufocourier.com/team
+  image_url: https://ufocourier.com/img/oksana.jpg

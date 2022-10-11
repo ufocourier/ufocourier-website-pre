@@ -62,6 +62,17 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'support_ukraine',
+        content:
+          'We stand with Ukraine. Find out how to support Ukraine <a target="_blank" rel="noopener noreferrer" href="https://u24.gov.ua">here</a>',
+        backgroundColor: '#0057B7',
+        textColor: '#FFDD00',
+        // backgroundColor: '#FFDD00',
+        // textColor: '#0057B7',
+
+        isCloseable: false,
+      },
       navbar: {
         title: 'UfoCourier',
         logo: {
@@ -71,6 +82,7 @@ const config = {
         items: [
           { to: '/join', label: 'Join', position: 'left' },
           { to: '/team', label: 'Team', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'left' },
           // {
           //   type: 'doc',
           //   docId: 'intro',
