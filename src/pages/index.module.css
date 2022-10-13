@@ -114,15 +114,13 @@
 .logo {
   position: relative;
   top: -10px;
-  width: 90px;
-  height: 90px;
-  box-sizing: border-box;
-  border-radius: 45px;
-  border-width: 5px;
-  border-color: white;
-  border-style: solid;
-  background-color: white;
-  background-image: url('@site/static/img/logo.svg');
+  width: 120px;
+  height: 120px;
+  /* border-radius: 45px; */
+  /* border-width: 5px; */
+  /* border-color: var(--ifm-color-primary); */
+  border-style: none;
+  background-image: url('@site/static/img/ufocourier_logo_inv.svg');
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center;
