@@ -5,7 +5,7 @@ import React from 'react';
 export default function Survey(): JSX.Element {
   return (
     <Layout
-      title="UfoCourier | Опитування"
+      title="Опитування"
       description="Платформа, де кожен може відправляти вантажі та перевозити людей через незалежних партнерів по доставці, на найкращих умовах, навіть у найнезручніші місця."
     >
       <Head
@@ -16,15 +16,7 @@ export default function Survey(): JSX.Element {
           'xmlns:og': 'http://ogp.me/ns#',
         }}
       >
-        <meta property="og:url" content="https://ufocourier.com/survey" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="" />
-        <meta
-          property="og:description"
-          content="Платформа, де кожен може відправляти вантажі та перевозити людей через незалежних партнерів по доставці, на найкращих умовах, навіть у найнезручніші місця."
-        />
         <meta property="og:image" content="https://ufocourier.com/img/ufocourier_survey_ua.jpg" />
-        <meta property="lang" content="uk" />
       </Head>
       <main>
         <object
