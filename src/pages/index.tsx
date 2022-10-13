@@ -7,7 +7,6 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 import HomepageFeaturedBy from '../components/FeaturedBy';
-import Head from '@docusaurus/Head';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -50,17 +49,6 @@ export default function Home(): JSX.Element {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
-      <Head>
-        <script id="mcjs">{`!function(c,h,i,m,p)
-          {
-            ((m = c.createElement(h)),
-            (p = c.getElementsByTagName(h)[0]),
-            (m.async = 1),
-            (m.src = i),
-            p.parentNode.insertBefore(m, p))
-          }
-          (document,"script","https://chimpstatic.com/mcjs-connected/js/users/68dd166f70b27de4d248f4e38/ced60a8cad1b7099183b5b1d7.js");`}</script>
-      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
