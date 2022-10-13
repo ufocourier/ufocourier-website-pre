@@ -13,6 +13,4 @@ Husna and Erfan, a great and strong team, shared with me some insights into the 
 
 The Startupnight turned out to be a great event for me to meet investors, but especially emerging startups.
 
-I was especially interested in potential future partners like [Cito](https://www.cito.ai/) and [driveMybox](https://en.drivemybox.de/). In any case, it was a pleasure to hear about their ideas.
-
 I'm already looking forward to next year, when UfoCourier will be in the spotlight 🚀
