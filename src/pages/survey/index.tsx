@@ -12,6 +12,8 @@ export default function Survey(): JSX.Element {
         htmlAttributes={{
           lang: 'uk',
           prefix: 'og: http://ogp.me/ns#',
+          xmlns: 'http://www.w3.org/1999/xhtml',
+          'xmlns:og': 'http://ogp.me/ns#',
         }}
       >
         <meta property="og:url" content="https://ufocourier.com/survey" />
