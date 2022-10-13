@@ -116,10 +116,14 @@
   top: -10px;
   width: 90px;
   height: 90px;
+  box-sizing: border-box;
   border-radius: 45px;
-  border-width: 13px;
+  border-width: 5px;
   border-color: white;
+  border-style: solid;
   background-color: white;
-  background-image: url('@site/static/img/ufocourier-logo.png');
-  background-size: contain;
+  background-image: url('@site/static/img/logo.svg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
 }

@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon-256x256.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -77,7 +77,7 @@ const config = {
         title: 'UfoCourier',
         logo: {
           alt: 'UfoCourier logo',
-          src: 'img/ufocourier-logo.png',
+          src: 'img/logo.svg',
         },
         items: [
           { to: '/join', label: 'Join', position: 'left' },
