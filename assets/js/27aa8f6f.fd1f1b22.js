@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkufocourier_website_pre=self.webpackChunkufocourier_website_pre||[]).push([[157],{3611:e=>{e.exports=JSON.parse('{"label":"SIBB","permalink":"/blog/tags/sibb","allTagsPath":"/blog/tags","count":1}')}}]);
