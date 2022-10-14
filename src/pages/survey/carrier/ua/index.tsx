@@ -5,8 +5,8 @@ import React from 'react';
 export default function Survey(): JSX.Element {
   return (
     <Layout
-      title="Опитування"
-      description="Платформа, де кожен може відправляти вантажі та перевозити людей через незалежних партнерів по доставці, на найкращих умовах, навіть у найнезручніші місця."
+      title="Опитування для перевізників"
+      description="Опитування призначене для перевізників (пасажирські і вантажні перевезення)."
     >
       <Head
         htmlAttributes={{
@@ -22,7 +22,7 @@ export default function Survey(): JSX.Element {
         <object
           type="text/html"
           data="https://us12.list-manage.com/survey?u=68dd166f70b27de4d248f4e38&id=f94172bb33&attribution=false"
-          style={{ width: '100%', minHeight: 2400 }}
+          style={{ width: '100%', minHeight: 2500 }}
         ></object>
       </main>
     </Layout>
