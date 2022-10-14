@@ -1,6 +1,7 @@
 import Head from '@docusaurus/Head';
 import Layout from '@theme/Layout';
 import React from 'react';
+import styles from './index.module.css';
 
 export default function Survey(): JSX.Element {
   return (
@@ -22,7 +23,7 @@ export default function Survey(): JSX.Element {
         <object
           type="text/html"
           data="https://us12.list-manage.com/survey?u=68dd166f70b27de4d248f4e38&id=f94172bb33&attribution=false"
-          style={{ width: '100%', minHeight: 2500 }}
+          className={styles.container}
         ></object>
       </main>
     </Layout>
