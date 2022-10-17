@@ -48,3 +48,23 @@
   --ifm-color-primary-lightest: #c5defd;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.teamImage {
+  min-width: 250px;
+  max-width: 300px;
+  float: left;
+  margin-right: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .teamImage {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    max-width: calc(100vw - 50px);
+  }
+
+  .teamImage + p {
+    display: block;
+    clear: both;
+  }
+}
