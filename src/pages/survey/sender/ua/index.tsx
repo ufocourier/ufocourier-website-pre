@@ -17,7 +17,10 @@ export default function Survey(): JSX.Element {
           'xmlns:og': 'http://ogp.me/ns#',
         }}
       >
-        <meta property="og:image" content="https://ufocourier.com/img/ufocourier_survey_ua.png" />
+        <meta
+          property="og:image"
+          content="https://ufocourier.com/img/ufocourier_survey_ua.png?fbrefresh=1"
+        />
       </Head>
       <main>
         <object
