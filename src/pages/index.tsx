@@ -47,7 +47,8 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="A platform where anyone can send goods and transport people via independent delivery
+      partners, at the best conditions, even to the most inconvenient places."
     >
       <HomepageHeader />
       <main>
