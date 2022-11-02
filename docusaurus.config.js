@@ -163,12 +163,12 @@ const config = {
           // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} UfoCourier. Built with ❤️ in Berlin.`,
-        image: 'img/ufocourier_og.png',
       },
       prism: {
         theme: lightCodeTheme,
         // darkTheme: darkCodeTheme,
       },
+      image: 'img/ufocourier_og.png',
     }),
 };
 
