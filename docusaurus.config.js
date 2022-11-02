@@ -109,6 +109,19 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          {
+            title: 'Rechtliches',
+            items: [
+              {
+                label: 'Impressum',
+                to: '/impressum',
+              },
+              {
+                label: 'Datenschutz',
+                to: '/datenschutz',
+              },
+            ],
+          },
           // {
           //   title: 'Docs',
           //   items: [
