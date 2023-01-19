@@ -4,10 +4,24 @@
         <title>UfoCourier Blog</title>
         <link>https://ufocourier.com/blog</link>
         <description>UfoCourier Blog</description>
-        <lastBuildDate>Sat, 01 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Welcome Nataliia]]></title>
+            <link>https://ufocourier.com/blog/nataliia</link>
+            <guid>nataliia</guid>
+            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nataliia, Oksana and Pawel from UfoCourier at the SIBB Deep Tech Accelerator]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Nataliia, Oksana and Pawel from UfoCourier at the SIBB Deep Tech Accelerator" src="/assets/images/SIBB_Nataliia_Oksana_Pawel-b2d3ff80866e95bccc0a3b87205108c4.jpg" width="1081" height="741" class="img_ev3q"></p><p>Congratulations and welcome to UfoCourier, <a href="/team#nataliia-medvedenko-coo-co-founder">Nataliia</a></p><p>Our company is growing and changing every day and we're thrilled to have you
+along for the ride. We’re all going to grow together here, and we look forward to
+it!</p><p>We hope you’ll speak up, push us to new heights and share your thoughts.
+That’s what helps us grow!</p><p>UfoCourier - let's grow together!</p>]]></content:encoded>
+            <category>UfoCourier</category>
+            <category>SIBB</category>
+            <category>Nataliia</category>
+        </item>
         <item>
             <title><![CDATA[Great news with SIBB]]></title>
             <link>https://ufocourier.com/blog/sibb</link>

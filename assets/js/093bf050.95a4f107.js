@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkufocourier_website_pre=self.webpackChunkufocourier_website_pre||[]).push([[9199],{6769:e=>{e.exports=JSON.parse('{"label":"Nataliia","permalink":"/blog/tags/nataliia","allTagsPath":"/blog/tags","count":1}')}}]);

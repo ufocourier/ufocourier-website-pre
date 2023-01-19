@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkufocourier_website_pre=self.webpackChunkufocourier_website_pre||[]).push([[5961],{7447:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/ufo-courier","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

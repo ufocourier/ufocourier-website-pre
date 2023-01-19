@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ufocourier.com/blog</id>
     <title>UfoCourier Blog</title>
-    <updated>2022-10-01T00:00:00.000Z</updated>
+    <updated>2023-01-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ufocourier.com/blog"/>
     <subtitle>UfoCourier Blog</subtitle>
     <icon>https://ufocourier.com/img/favicon-256x256.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome Nataliia]]></title>
+        <id>nataliia</id>
+        <link href="https://ufocourier.com/blog/nataliia"/>
+        <updated>2023-01-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nataliia, Oksana and Pawel from UfoCourier at the SIBB Deep Tech Accelerator]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Nataliia, Oksana and Pawel from UfoCourier at the SIBB Deep Tech Accelerator" src="/assets/images/SIBB_Nataliia_Oksana_Pawel-b2d3ff80866e95bccc0a3b87205108c4.jpg" width="1081" height="741" class="img_ev3q"></p><p>Congratulations and welcome to UfoCourier, <a href="/team#nataliia-medvedenko-coo-co-founder">Nataliia</a></p><p>Our company is growing and changing every day and we're thrilled to have you
+along for the ride. We’re all going to grow together here, and we look forward to
+it!</p><p>We hope you’ll speak up, push us to new heights and share your thoughts.
+That’s what helps us grow!</p><p>UfoCourier - let's grow together!</p>]]></content>
+        <author>
+            <name>Oksana Sawicka</name>
+            <uri>https://www.linkedin.com/in/oksana-sawicka-karpinska-26770943/</uri>
+        </author>
+        <author>
+            <name>Pawel Sawicki</name>
+            <uri>https://www.linkedin.com/in/sawickipawel/</uri>
+        </author>
+        <category label="UfoCourier" term="UfoCourier"/>
+        <category label="SIBB" term="SIBB"/>
+        <category label="Nataliia" term="Nataliia"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Great news with SIBB]]></title>
         <id>sibb</id>
@@ -16,7 +38,7 @@
         <content type="html"><![CDATA[<p><img loading="lazy" alt="Oksana and Pawel from UfoCourier at the SIBB Deep Tech Accelerator" src="/assets/images/SIBB_Oksana_Pawel-c109a7324615869936b99d0bdbd7a335.jpg" width="1200" height="1224" class="img_ev3q"></p><p>We are really excited to be accepted to <a href="https://www.sibb.de/scholarship" target="_blank" rel="noopener noreferrer">SIBB Deep Tech Accelerator</a> 2022/23!</p><p>The <em>SIBB Deep Tech Startup Accelerator</em> supports early stage tech projects in product development, market entry &amp; startup formation and we are happy to become a part of this amazing network, meet incredible mentors and take our UfoCourier to the next level.</p><p>Over the next 8 months, we will be working together on startup development support to prepare for launching our business idea and grow.</p><p>Stay tuned to track what's happening with UfoCourier! Let’s the journey begin!</p>]]></content>
         <author>
             <name>Oksana Sawicka</name>
-            <uri>https://ufocourier.com/team</uri>
+            <uri>https://www.linkedin.com/in/oksana-sawicka-karpinska-26770943/</uri>
         </author>
         <category label="UfoCourier" term="UfoCourier"/>
         <category label="SIBB" term="SIBB"/>
@@ -45,7 +67,7 @@
         <content type="html"><![CDATA[<p><img loading="lazy" alt="UfoCourier" src="/assets/images/ufocourier_transport-0f53721ffba724b9c3a167dc3e7ecb25.jpg" width="1444" height="800" class="img_ev3q"></p><p>Today is a special day. Today our work on our idea UfoCourier was "officially" started.</p><p>UfoCourier is a platform for sending packages or giving rides by independent drivers, even to the most remote places. With our platform anyone can be a courier.</p><p>The idea for the platform came from personal need. Thousands and millions of Ukrainians living abroad want to send packages to family back home. However, with the use of established logistics service providers, this is a costly and lengthy process. A number of individual drivers have recognized this and are already offering rides, organized through social networks.</p><p>We would like to offer the above groups a platform from which everyone involved can benefit without restricting them.</p><p>Oksana, experienced in business and with special insights into the logistics industry will be our CEO and Pawel, experienced software developer and consultant will be our CTO.</p>]]></content>
         <author>
             <name>Oksana Sawicka</name>
-            <uri>https://ufocourier.com/team</uri>
+            <uri>https://www.linkedin.com/in/oksana-sawicka-karpinska-26770943/</uri>
         </author>
         <author>
             <name>Pawel Sawicki</name>
