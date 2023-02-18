@@ -5,7 +5,7 @@ authors: [nataliia]
 tags: [UfoCourier, Mali, Mentor, Leadership]
 ---
 
-![Our Mentor - Mali M. Baum](./Mali_M_Baum.jpeg)
+![Our Mentor - Mali M. Baum](./Mali_M_Baum_w.jpg)
 
 We are glad to meet our mentor - [Mali M. Baum](https://www.linkedin.com/in/mali-m-baum-0353b027/).
 
