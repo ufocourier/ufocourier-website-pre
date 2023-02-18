@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkufocourier_website_pre=self.webpackChunkufocourier_website_pre||[]).push([[1360],{9744:e=>{e.exports=JSON.parse('{"label":"Mali","permalink":"/blog/tags/mali","allTagsPath":"/blog/tags","count":1}')}}]);

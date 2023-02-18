@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkufocourier_website_pre=self.webpackChunkufocourier_website_pre||[]).push([[1034],{7564:e=>{e.exports=JSON.parse('{"label":"UfoCourier","permalink":"/blog/tags/ufo-courier","allTagsPath":"/blog/tags","count":4}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkufocourier_website_pre=self.webpackChunkufocourier_website_pre||[]).push([[7773],{7819:e=>{e.exports=JSON.parse('{"label":"Mentor","permalink":"/blog/tags/mentor","allTagsPath":"/blog/tags","count":1}')}}]);
