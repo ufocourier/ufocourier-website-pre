@@ -133,6 +133,27 @@ export default function Home(): JSX.Element {
           </div>
         </section>
 
+        <section className={styles.sustainability}>
+          <div className="container padding--md padding-top--lg">
+            <h1 className="text--center">Sustainability</h1>
+            <div className="row">
+              <div className="col col--12">
+                <div className={styles.sustainabilityDescription}>
+                  <p>
+                    1 in 5 EU road transportations were empty runs resulting in additional carbon
+                    waste.
+                  </p>
+                  <p>
+                    Our platform provides possibility to carriers to reduce or eliminate their empty
+                    miles and thus to reduce its carbon footprint and contribute to a more
+                    sustainable future.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <HomepageFeaturedBy />
       </main>
     </Layout>
