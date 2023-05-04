@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkufocourier_website_pre=self.webpackChunkufocourier_website_pre||[]).push([[9079],{7426:e=>{e.exports=JSON.parse('{"label":"Google","permalink":"/blog/tags/google","allTagsPath":"/blog/tags","count":1}')}}]);
