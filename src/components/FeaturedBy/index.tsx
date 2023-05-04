@@ -6,6 +6,7 @@ type FeaturedByItem = {
   title: string;
   imgName: string;
   url: string;
+  displayCols?: 3 | 6 | 12;
 };
 
 const FeaturedByList: FeaturedByItem[] = [
@@ -29,14 +30,20 @@ const FeaturedByList: FeaturedByItem[] = [
     imgName: 'img/by3.png',
     url: 'https://www.sibb.de/scholarship',
   },
+  {
+    title: 'Google for Startups Cloud Program',
+    imgName: 'img/by4.jpg',
+    url: 'https://ufocourier.com/blog/google-cloud',
+    displayCols: 12,
+  },
 ];
 
-function FeaturedBy({ title, imgName, url }: FeaturedByItem) {
+function FeaturedBy({ title, imgName, url, displayCols = 3 }: FeaturedByItem) {
   return (
-    <div className={clsx('col col--3')}>
+    <div className={clsx(`col col--${displayCols}`)}>
       <div className="text--center">
         <a href={url}>
-          <img className={styles.featureSvg} src={imgName} alt={title} />
+          <img className={styles[`featureSvg-${displayCols}`]} src={imgName} alt={title} />
         </a>
       </div>
     </div>
